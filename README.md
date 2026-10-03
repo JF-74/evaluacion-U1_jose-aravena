@@ -22,7 +22,7 @@ Fases Metodológicas Desarrolladas (CRISP-DM)
 
 1. **Business Understanding:** Definición del problema académico, alineación con stakeholders y formulación de preguntas de negocio.
 2. **Data Understanding:** Análisis del dataset, diccionarios de variables y tipos de datos.
-3. **Data Preparation:** Tratamiento de datos faltantes (imputación por mediana y moda), discretización en tramos y prevención de *Data Leakage*.
+3. **Data Preparation:** Tratamiento de datos faltantes (imputación por mediana y moda), discretización en tramos y prevención de *
 4. **Modeling:**
    * **Reglas de Asociación:** Filtrado de combinaciones relevantes con $Lift > 1$ orientadas a riesgo bajo (`performance_level_Low`).
    * **Árbol de Decisión:** Entrenamiento de modelo explicativo con `max_depth=3` para extracción de reglas claras.
