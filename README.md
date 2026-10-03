@@ -8,7 +8,7 @@
 
 Descripción del Proyecto
 
-Este proyecto aplica la metodología **CRISP-DM** para abordar la problemática de riesgo y desempeño académico estudiantil. A través de técnicas de analítica exploratoria, Árboles de Decisión, se buscan identificar factores clave de riesgo pedagógico para la toma de decisiones preventivas por parte de Equipos Docentes
+el siguiente proyecto busca aplicar las metodología de **CRISP-DM** para abordar la problemática de riesgo y desempeño académico estudiantil. A través de técnicas de analítica exploratoria, Árboles de Decisión, se buscan identificar factores clave de riesgo sobre el desempeño académico 
 
 ---
 
